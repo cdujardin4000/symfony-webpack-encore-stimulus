@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/composer" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/validator" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+</project>
