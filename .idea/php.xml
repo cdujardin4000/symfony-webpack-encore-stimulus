@@ -60,6 +60,18 @@
       <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/proxy-manager-bridge" />
       <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/translation-contracts" />
       <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/frites-mayo-prods/vendor/symfony/property-info" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
